@@ -1,0 +1,13 @@
+table {
+  width: 100%;
+  /* box-shadow: none !important; */
+}
+
+/* .mat-row .mat-cell {
+  border-bottom: 1px solid transparent;
+  border-top: 1px solid transparent;
+ cursor: pointer;
+} */
+tr.mat-row, tr.mat-footer-row {
+  height: 18px;
+}
